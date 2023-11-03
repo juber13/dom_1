@@ -1,5 +1,6 @@
 const div = document.getElementById('container');
 div.style.backgroundColor = "yellow";
+div.style.color = "blue";
 div.style.margin = "20px";
 div.style.padding = "20px";
 div.style.fontSize = "18px";
